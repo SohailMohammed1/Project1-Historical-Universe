@@ -22,6 +22,37 @@ h1, h2 {
 }
 
 #logo {
-    float: left;
-    font-size: 250%;
+    padding: 20px; /*mention that it was sourced from: https://support.w3schools.com/hc/en-gb/articles/4410240180113-How-do-I-center-images- */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#nav {                      
+    font-size: 110%;
+    letter-spacing: 4px
+}
+
+#nav, #logo {
+    line-height: 75px;
+
+}
+
+#nav li {                /* change so that menu in beneath the logo, centered */
+    float: right;
+    list-style-type: none;
+    margin-right: 30px; 
+}
+
+#nav a{
+    text-decoration: none;
+}
+
+#nav a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
