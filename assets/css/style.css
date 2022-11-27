@@ -6,7 +6,22 @@
     border: none;
 }
 
-header {
+body {
     font-family: merriweather, sans-serif;
     font-weight: 400;
+    color: #3a3a3a
+}
+
+/* headings and logos */
+
+h1, h2 {
+    font-family: merriweather, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: rgb(24, 21, 21)
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }
