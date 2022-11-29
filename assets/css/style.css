@@ -22,16 +22,26 @@ h1, h2 {
 }
 
 #logo {
-    padding: 20px; /*mention that it was sourced from: https://support.w3schools.com/hc/en-gb/articles/4410240180113-How-do-I-center-images- */
+    padding: 40px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
     width: 50%;
+    margin: auto;
 }
 
 #nav {                      
+    
     font-size: 110%;
-    letter-spacing: 4px
+    letter-spacing: 4px;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%; /* sourced: https://www.w3schools.com/howto/howto_css_fixed_menu.asp */
+    
+}
+
+#logo a:visited {
+    text-decoration: none;
 }
 
 #nav, #logo {
@@ -39,14 +49,16 @@ h1, h2 {
 
 }
 
-#nav li {                /* change so that menu in beneath the logo, centered */
+#nav li {                
     float: right;
     list-style-type: none;
     margin-right: 30px; 
+    
 }
 
 #nav a{
     text-decoration: none;
+    color: aliceblue;
 }
 
 #nav a:hover {
@@ -65,5 +77,5 @@ h1, h2 {
     background: url('../css/images/space1-image.jpg') no-repeat center center; 
 } 
 
-/* ../images/jwst-image.webp  /workspace/Project1-Historical-Universe/assets/css/images/jwst-image.webp */
+
 
