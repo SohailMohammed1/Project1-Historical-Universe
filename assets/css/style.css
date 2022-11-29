@@ -18,7 +18,7 @@ h1, h2 {
     font-family: merriweather, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: rgb(24, 21, 21)
+    color: rgb(209, 192, 192)
 }
 
 #logo {
@@ -56,3 +56,14 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* jwst-image */
+
+#space-image {
+    height: 180px;
+    width: 100%;
+    background: url('../css/images/space1-image.jpg') no-repeat center center; 
+} 
+
+/* ../images/jwst-image.webp  /workspace/Project1-Historical-Universe/assets/css/images/jwst-image.webp */
+
