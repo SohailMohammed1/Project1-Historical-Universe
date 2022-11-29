@@ -86,3 +86,9 @@ h1, h2 {
     text-decoration: underline;
 }
 
+.center {
+    text-align: center;
+    border: solid 20px;
+    padding: 20px;
+    margin: 20px;
+}
