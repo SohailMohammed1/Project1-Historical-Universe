@@ -200,3 +200,14 @@ footer {
     width: 100%;
 
 }
+
+/* media queries from course for responsive elements */
+
+@media screen and (max-width: 1200px) {
+    hcenter {
+        width: 65%;
+        height: 1200px;
+        margin: 0;
+
+    }
+} 
