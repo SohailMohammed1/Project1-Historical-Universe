@@ -91,8 +91,21 @@ h1, h2 {
     border: solid 20px;
     padding: 20px;
     margin: 20px;
+    
 }
 h4 {
     font-family: Arial, Helvetica, sans-serif ;
     font-weight: 200;
 }
+
+/* star gazing locations */
+
+#locations {
+background-image: url(../css/images/milky\ way.webp);   
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+overflow: hidden;
+} 
+
