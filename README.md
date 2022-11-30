@@ -52,11 +52,30 @@ The footer allows users to access any of the 4 social media websites belonging t
 
 The context, as mentioned before, was intended to inform and educate the users on the history of the Universe. The borders would clearly indicate the timeline of events and help break up the chunks of content. 
 
+url ()
+
 ## Gallery
 
 The gallery was implimented in order for the users to be able to see some of the fascinating images of Space that would coerce them into learning more and gain a higher level of appreciation. When clicked on, the images would take the users to a seperate webpage where they could see them in much higher resolution. 
 
 ## Contact Form
 
-The contact form was 
+The contact form was implemented so that users could submit inqueries and offer suggestions as to what other content could be added to website. 
 
+# Testing
+
+W3C - no major errors 
+CSS Jigsaw Validator - No errors found
+
+## fixing bugs
+
+Although the above testing seems to indicate that the website is has no major flaws, when testing initially, the website would not display features such as footer and resizing images so that they could pass through the responsive criteria took a lot of time. To combat this issue, I set up a call with my tutor who was able to guide me through the use of media inqueries along with a lot of troubleshooting so that the footer would appear on the final webpage. 
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+## Deployment
+
+The site was deployed and hosted on GitHub pages. By navigating to the repository settings and then clicking pages, I was able to select the Master Branch option from the source section dropdown menu. This would then allow a link to appear and the deployment would be a success. 
