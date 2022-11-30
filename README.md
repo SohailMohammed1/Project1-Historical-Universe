@@ -64,10 +64,10 @@ The contact form was implemented so that users could submit inqueries and offer 
 
 # Testing
 
-W3C - no major errors although the use of varying sized headings was suggested
+### W3C - no major errors although the use of varying sized headings was suggested
 CSS Jigsaw Validator - No errors found
 
-## fixing bugs
+## Fixing bugs
 
 Although the above testing seems to indicate that the website is has no major flaws, when testing initially, the website would not display features such as footer and resizing images so that they could pass through the responsive criteria took a lot of time. To combat this issue, I set up a call with my tutor who was able to guide me through the use of media inqueries along with a lot of troubleshooting so that the footer would appear on the final webpage. 
 
