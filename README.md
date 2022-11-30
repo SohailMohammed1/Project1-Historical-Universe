@@ -52,7 +52,7 @@ The footer allows users to access any of the 4 social media websites belonging t
 
 The context, as mentioned before, was intended to inform and educate the users on the history of the Universe. The borders would clearly indicate the timeline of events and help break up the chunks of content. 
 
-url ()
+
 
 ## Gallery
 
@@ -64,7 +64,7 @@ The contact form was implemented so that users could submit inqueries and offer 
 
 # Testing
 
-W3C - no major errors 
+W3C - no major errors although the use of varying sized headings was suggested
 CSS Jigsaw Validator - No errors found
 
 ## fixing bugs
