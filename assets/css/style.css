@@ -100,12 +100,68 @@ h4 {
 
 /* star gazing locations */
 
-#locations {
+#locations {                /* copied from the course video */
 background-image: url(../css/images/milky\ way.webp);   
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 width: 100%;
 overflow: hidden;
-} 
+}    
 
+#locations1 {                /* copied from the course video */
+    background-image: url(../css/images/atacama1.webp);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    }    
+
+#locations2 {                /* copied from the course video */
+    background-image: url(../css/images/atacama.webp);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    }    
+
+#locations3 {                /* copied from the course video */
+    background-image: url(../css/images/japan.png);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    }    
+
+#locations4 {                /* copied from the course video */
+    background-image: url(../css/images/southafrica.jpg);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    }   
+    
+#locations5 {                /* copied from the course video */
+    background-image: url(../css/images/hawaii.jpg);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    }    
+    
+#locations div {
+    color:aliceblue;
+    background-color: rgba(0,0,0, .6);
+    width:  20%;
+    height: 300px; 
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box; 
+}
