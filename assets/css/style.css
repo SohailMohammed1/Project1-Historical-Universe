@@ -31,14 +31,16 @@ h1, h2 {
 }
 
 
+/* sourced: https://www.w3schools.com/howto/howto_css_fixed_menu.asp */
 
+/* Navigation Menu */
 #nav {                      
     
     font-size: 110%;
     letter-spacing: 4px;
     overflow: hidden;
     background-color: #333;
-    width: 100%; /* sourced: https://www.w3schools.com/howto/howto_css_fixed_menu.asp */
+    width: 100%; 
     
 }
 
@@ -166,7 +168,7 @@ overflow: hidden;
     box-sizing: border-box; 
 }
 
-/* footer copied from course   */
+/* footer copied from course, social media links  */
 
 footer {
     height: 150px;
@@ -203,7 +205,9 @@ footer {
 }
 
 
-div.gallery { /* https://www.w3schools.com/css/css_image_gallery.asp */
+/* Credit to: https://www.w3schools.com/css/css_image_gallery.asp */
+/* Gallery Page */
+div.gallery { 
     margin-left: 5%;
     border: 1px solid #ccc;
     width: 19%;
@@ -225,6 +229,7 @@ div.desc {
     text-align: center;
 }
 
+/* Contact page */
 #contact h1{
     text-align: center;
     margin-top: 10px;
@@ -261,6 +266,7 @@ input[type=text], input[type=email], select, textarea {
     padding: 20px;
   }
 
+/* Fix image bug issue using home_image class */
 .home_image {
     width: 90%;
     margin-left: 5%;
