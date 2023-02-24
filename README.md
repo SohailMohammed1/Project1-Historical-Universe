@@ -1,12 +1,55 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Historical Universe
+# **Historical Universe**
 
 The Historical Universe webpage is a educational site for both adults and children, alike. It offers a brief insight into the timeline of the universe and aims to educate users about its birth up until its eventual death. 
 
 Users of this website will be able to read about the Universe and look through various photos, showing different celestial bodies. On its final page, users may input any comment and offer suggestions to the developer on different things they would like to be added. 
 
 ![responsive element](/assets/css/images/responsive.jpg)
+
+The image above demonstrates how the website will look on different devices and attests to its responsiveness. 
+
+## **Features**
+ ### **Header**
+- The header contains the name of the website and this can be used as a button to navigate back to the homepage. 
+- Background picture provides subtlety. 
+
+![header](/assets/css/images/header1.jpg)
+
+ ### **Navigation bar**
+ - Placed on the top left of the page to provide easy access to other parts of the website. 
+ - Navigation bar inherits similar font as header for contrast purposes. 
+ - Background colour of navigation bar follows the same colour scheme as the rest of the page. 
+
+![navigation bar](/assets/css/images/navigation_bar.jpg)
+
+### **Main Body**
+- Provides brief timeline of the Universe. 
+- Follows uniform layout and colour scheme, black borders and font color as well as white background, for contrast purposes. 
+- Selected sections are given pictures in order to emphasise timeline or provide real-time imagery of celestial bodies mentioned in the text it belongs to. 
+
+![Sample of main body](/assets/css/images/body.jpg)
+
+### **Gallery**
+- Gallery provides different views of different celestial bodies, sourced from google images. 
+- Gallery layout is straight forward in order to easily navigate between them. 
+- Each image will automatically take users to a new tab where the image is enlarged. This is useful for users who have issues regarding vision. 
+- Brief description is given under each image to provide context. 
+
+![Gallery](/assets/css/images/gallery.jpg)
+
+### **Contact Us**
+- Final webpage allows users to input any comment, directly to the developers via form. 
+- Form asks for user input if submit button is pressed prematurely and displays message urging users to not leave sections unattended.
+Users can input comments or suggestions.  
+- Once submit buttion is pressed, the users are told that the form went through successfully. 
+
+![form](/assets/css/images/form.jpg)
+
+![form submission](/assets/css/images/form_submission.jpg)
+
+
 
 
 
