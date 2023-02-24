@@ -1,6 +1,14 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Sources
+# Historical Universe
+
+The Historical Universe webpage is a educational site for both adults and children, alike. It offers a brief insight into the timeline of the universe and aims to educate users about its birth up until its eventual death. 
+
+Users of this website will be able to read about the Universe and look through various photos, showing different celestial bodies. On its final page, users may input any comment and offer suggestions to the developer on different things they would like to be added. 
+
+![responsive element](/assets/css/images/responsive.jpg)
+
+
 
 ## Homepage
 
