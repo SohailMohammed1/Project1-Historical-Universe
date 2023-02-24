@@ -49,6 +49,51 @@ Users can input comments or suggestions.
 
 ![form submission](/assets/css/images/form_submission.jpg)
 
+### **Footer**
+- Footer provides links to different social media accounts. 
+- Each icon is sourced from Font Awesome and opens a new page when pressed. 
+
+![footer](/assets/css/images/socials.jpg)
+
+## **Testing**
+- Website has been tested on different browsers and works, accordingly. 
+
+- I have provided evidence that the website can retain its responsive elements on multiple devices. 
+
+- I can confirm that the features of this website are all readable and easy to understand. 
+
+- I can confirm that the form will only allow submission on the condition that each field is filled in correctly. This includes the email field that will only accept email values. 
+
+## **Bugs**
+- The images were not loading within the gallery and the homepage. To fix this, I altered the pathway for the webpage to follow, for example:
+
+- Previous code: 
+```
+ /images/Big-Bang.jpg  
+```
+- Improved Code: 
+```
+./assets/css/images/Big-Bang.jpg
+```
+This helped to load all the images correctly. 
+
+## **Validator Testing**
+- HTML
+    - Html was put through the W3C Validator. Each page came out with no errors. 
+- CSS
+    - CSS was put through official (jigsaw) validator. No errors were found. 
+- Accessibility
+    - I can confirm that the colors and fonts are accessible and easy to read and this can be proven by running it through the lighthouse in devtools: 
+
+![Lighthouse](/assets/css/images/lighthouse_devtools.jpg)
+
+## **Deployment**
+- The site was deployed via GitHub Pages. The method of which this took place are as follows:
+    - Within the GitHub repository, navigate to Settings tab
+    - Click on the pages tab, located on the left-hand side
+    - Select 'Main' for Branch selection and ensure that 'root' is also selected.
+    - Ensure that 'Deploy from branch' is selected, underneath the Source heading. 
+    
 
 
 
